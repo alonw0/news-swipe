@@ -1,11 +1,11 @@
 import React from 'react';
-import { Card, CardContent } from '@material-ui/core';
+//import { Card, CardContent } from '@material-ui/core';
 import TinderCard from 'react-tinder-card'
 import './App.css';
 
 
 
-const regex = /<\/?!?(img|a|div)[^>]*>/g
+//const regex = /<\/?!?(img|a|div)[^>]*>/g
 
 
 
